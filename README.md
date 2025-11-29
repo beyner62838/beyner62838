@@ -1,6 +1,6 @@
-# 👋 Hola, soy Breyner José Pertuz Castro
+#  Hola, soy Breyner José Pertuz Castro
 
-### 🧑‍💻 Desarrollador Backend Java | Spring Boot | APIs REST | MySQL  
+### Desarrollador Backend Java | Spring Boot | APIs REST | MySQL  
 Estudiante de Ingeniería de Sistemas con experiencia desarrollando aplicaciones backend en Java.  
 Me gusta crear soluciones reales, trabajar en equipo y mantener buenas prácticas en mis proyectos.
 
@@ -37,7 +37,7 @@ Me gusta crear soluciones reales, trabajar en equipo y mantener buenas práctica
 
 ---
 
-## 📌 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 🔹 AutoYa — Plataforma para reservas de vehículos  
 Backend en Java + Spring Boot  
@@ -45,16 +45,7 @@ Backend en Java + Spring Boot
 - CRUD de usuarios, vehículos y reservas  
 - Integración de APIs  
 - Control de versiones con Git/GitHub  
-➡️ *Repositorio:* (agrega aquí tu link)
-
----
-
-### 🔹 FadeApp — Gestión de Barberías  
-API backend para clientes, citas y servicios  
-- Endpoints REST  
-- Organización por capas  
-- Diseño de modelos y servicios  
-➡️ *Repositorio:* (agrega aquí tu link)
+  *Repositorio:* https://github.com/beyner62838/AutoYa.git
 
 ---
 
@@ -67,20 +58,20 @@ API backend para clientes, citas y servicios
 
 ---
 
-## 🎓 Formación
+##  Formación
 
 **Ingeniería de Sistemas** — CORHUILA (2022 - Actualidad)  
 **Técnico en Mantenimiento de Equipos de Cómputo** — SENA (2020)
 
 ---
 
-## 🧩 Sobre mí  
+##  Sobre mí  
 Me apasiona el desarrollo backend y la tecnología.  
 Estoy buscando oportunidades para crecer como desarrollador, aprender de profesionales con experiencia y aportar en proyectos reales.
 
 ---
 
-## 📫 Contacto  
+##  Contacto  
 - **Email:** castrobrejo@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/breyner-pertuz-430769262  
 - **GitHub:** github.com/beyner62838
